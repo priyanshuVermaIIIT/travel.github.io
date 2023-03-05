@@ -1,0 +1,16 @@
+body {
+    background-color:#e9e1d1;
+    background-size: 100%;
+ }
+  html {
+    scroll-behavior: smooth;
+  }
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color:#e9e1d1;
+  padding: 0px;
+}
+
+  
